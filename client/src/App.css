@@ -1,0 +1,13 @@
+.App {
+  margin: 0;
+  padding: 0;
+}
+
+#background {
+  background-color: rgb(248, 246, 242);
+}
+
+.headerImg {
+  height: 100px;
+}
+
